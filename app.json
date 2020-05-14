@@ -1,0 +1,42 @@
+{
+  "0": "m",
+  "1": "a",
+  "2": "n",
+  "3": "a",
+  "4": "g",
+  "5": "e",
+  "6": "d",
+  "expo": {
+    "name": "Portofolio",
+    "slug": "Portofolio",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+     "icon": "./assets/images/logo2.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#289e6c"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.nizam.portofolio",
+      "supportsTablet": true
+    },
+     "android": {
+      "package": "com.nizam.portofolio",
+    }
+  }
+}
+
