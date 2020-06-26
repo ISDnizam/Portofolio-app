@@ -138,7 +138,7 @@ class HomeScreen extends React.Component {
               {'Web Dev'}
               </Text>
               <Text style={{fontWeight :'600',textAlign:'center', fontSize:11, color:Colors.mainColor}} >
-              {'24'}
+              {'32'}
               </Text>
             </View>
             <View style={{flex: 2, flexDirection: 'column',justifyContent:'center'}}>
@@ -155,7 +155,7 @@ class HomeScreen extends React.Component {
               {'Android App'}
               </Text>
               <Text style={{fontWeight :'600',textAlign:'center', fontSize:11, color:Colors.mainColor}} >
-              {'4'}
+              {'9'}
               </Text>
             </View>
             <View style={{flex: 2, flexDirection: 'column',justifyContent:'center'}}>
@@ -172,7 +172,7 @@ class HomeScreen extends React.Component {
               {'iOS App'}
               </Text>
               <Text style={{fontWeight :'600',textAlign:'center', fontSize:11, color:Colors.mainColor}} >
-              {'1'}
+              {'6'}
               </Text>
             </View>
           </View>

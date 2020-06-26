@@ -177,7 +177,7 @@ FilterSearch = (category) =>{
     return (
       <TouchableOpacity>
       <Card containerStyle={{borderRadius:7}} 
-         image={{uri: image}}
+         image={{uri: ro.image}}
          imageStyle={{height:230}}>
           <Text  style={{   marginBottom:3, color:'#000',fontSize:15, fontWeight:'bold'}}>
             {ro.title}
